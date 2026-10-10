@@ -122,7 +122,7 @@
   {
     "id": "sony_industry",
     "manufacturer": "Sony",
-    "url": "https://www.sony-semicon.com/en/products/is/industry/gs/index.html",
+    "url": "https://www.sony-semicon.com/en/products/is/industry/global-shutter.html",
     "band": "DAY",
     "mode": "model_tokens",
     "model_regex": "\\bIMX\\d{3,4}\\b",
@@ -148,7 +148,7 @@
   {
     "id": "onsemi_cmos",
     "manufacturer": "onsemi",
-    "url": "https://www.onsemi.com/design/interactive-block-diagrams/consumer/ar-and-vr-headset/image-sensors",
+    "url": "https://www.onsemi.com/solutions/industrial/industrial-automation/machine-vision",
     "band": "DAY",
     "mode": "model_tokens",
     "model_regex": "\\b(?:AR|XGS|MT9|ARX)\\d{3,6}[A-Z]*\\b",
