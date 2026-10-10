@@ -1,0 +1,175 @@
+[
+  {
+    "id": "scd_mwir",
+    "manufacturer": "SCD",
+    "url": "https://scdusa-ir.com/mwir/",
+    "band": "MWIR",
+    "mode": "links",
+    "path_regex": "^/products/[^/]+/?$",
+    "min_results": 3
+  },
+  {
+    "id": "scd_lwir",
+    "manufacturer": "SCD",
+    "url": "https://scdusa-ir.com/lwir/",
+    "band": "LWIR",
+    "mode": "links",
+    "path_regex": "^/products/[^/]+/?$",
+    "min_results": 1
+  },
+  {
+    "id": "scd_swir",
+    "manufacturer": "SCD",
+    "url": "https://scdusa-ir.com/swir/",
+    "band": "SWIR",
+    "mode": "links",
+    "path_regex": "^/products/[^/]+/?$",
+    "min_results": 1
+  },
+  {
+    "id": "lynred_1",
+    "manufacturer": "LYNRED",
+    "url": "https://www.lynred.com/products/1",
+    "mode": "links",
+    "path_regex": "^/products/(?![0-9]+/?$)[a-z0-9_-]+/?$",
+    "min_results": 3
+  },
+  {
+    "id": "lynred_2",
+    "manufacturer": "LYNRED",
+    "url": "https://www.lynred.com/products/2",
+    "mode": "links",
+    "path_regex": "^/products/(?![0-9]+/?$)[a-z0-9_-]+/?$",
+    "min_results": 3
+  },
+  {
+    "id": "lynred_3",
+    "manufacturer": "LYNRED",
+    "url": "https://www.lynred.com/products/3",
+    "mode": "links",
+    "path_regex": "^/products/(?![0-9]+/?$)[a-z0-9_-]+/?$",
+    "min_results": 1
+  },
+  {
+    "id": "irnova",
+    "manufacturer": "IRnova",
+    "url": "https://www.irnova.se/products",
+    "mode": "links",
+    "path_regex": "^/products/[a-z][a-z0-9-]+/?$",
+    "min_results": 2
+  },
+  {
+    "id": "gsti_uncooled",
+    "manufacturer": "GSTiR",
+    "url": "https://www.gst-ir.net/products/uncooled-infrared-detectors/",
+    "band": "LWIR",
+    "mode": "links",
+    "path_regex": "^/products/uncooled-infrared-detectors/.+\\.html$",
+    "min_results": 2
+  },
+  {
+    "id": "gsti_cooled",
+    "manufacturer": "GSTiR",
+    "url": "https://www.gst-ir.net/products/cooled-infrared-detectors/",
+    "mode": "links",
+    "path_regex": "^/products/cooled-infrared-detectors/.+\\.html$",
+    "min_results": 2
+  },
+  {
+    "id": "aim",
+    "manufacturer": "AIM",
+    "url": "https://www.aim-ir.com/en/applications-products/security/modules.html",
+    "mode": "model_tokens",
+    "model_regex": "(?i)\\b(?:HiPIR[- ]?(?:[0-9]{3,4}[A-Z]*|HD[0-9]+[ML]?|Engine)|eSWIR\\s*\\d{3,4}x\\d{3,4}\\s*(?:10|15)\\s*(?:µm|um))\\b",
+    "min_results": 2
+  },
+  {
+    "id": "nit",
+    "manufacturer": "NIT (LYNRED)",
+    "url": "https://new-imaging-technologies.com/product-category/swir-cameras/",
+    "band": "SWIR",
+    "mode": "links",
+    "path_regex": "^/product/[a-z0-9-]+/?$",
+    "min_results": 2
+  },
+  {
+    "id": "gpixel",
+    "manufacturer": "Gpixel",
+    "url": "https://gpixel.com/en/product.html",
+    "band": "DAY",
+    "mode": "model_tokens",
+    "model_regex": "(?i)\\b(?:GMAX|GSPRINT|GSENSE|GLUX|GCINE|GTOF|GLR|GXS|GIR)[A-Z0-9-]{3,}\\b",
+    "min_results": 5
+  },
+  {
+    "id": "hamamatsu_ingaas",
+    "manufacturer": "Hamamatsu",
+    "url": "https://www.hamamatsu.com/eu/en/product/optical-sensors/image-sensor/ingaas-image-sensor/ingaas-area-image-sensor.html",
+    "band": "SWIR",
+    "mode": "model_tokens",
+    "model_regex": "\\bG\\d{5}-\\d{2,4}[A-Z]?\\b",
+    "min_results": 5
+  },
+  {
+    "id": "sony_swir",
+    "manufacturer": "Sony",
+    "url": "https://www.sony-semicon.com/en/products/is/industry/swir.html",
+    "band": "SWIR",
+    "mode": "model_tokens",
+    "model_regex": "\\bIMX\\d{3,4}\\b",
+    "min_results": 3
+  },
+  {
+    "id": "sony_industry",
+    "manufacturer": "Sony",
+    "url": "https://www.sony-semicon.com/en/products/is/industry/gs/index.html",
+    "band": "DAY",
+    "mode": "model_tokens",
+    "model_regex": "\\bIMX\\d{3,4}\\b",
+    "min_results": 2
+  },
+  {
+    "id": "flir_lwir",
+    "manufacturer": "Teledyne FLIR OEM",
+    "url": "https://oem.flir.com/en-150/categories/infrared-camera-cores/long-wave-infrared-lwir-uncooled-camera-modules/",
+    "band": "LWIR",
+    "mode": "links",
+    "path_regex": "^/(?:en-150/)?products/[a-z0-9-]+/?$",
+    "min_results": 2
+  },
+  {
+    "id": "flir_legacy",
+    "manufacturer": "Teledyne FLIR OEM",
+    "url": "https://www.oem.flir.com/en-150/categories/oem-legacy-products/infrared-camera-cores/",
+    "mode": "links",
+    "path_regex": "^/(?:en-150/)?products/[a-z0-9-]+/?$",
+    "min_results": 1
+  },
+  {
+    "id": "onsemi_cmos",
+    "manufacturer": "onsemi",
+    "url": "https://www.onsemi.com/design/interactive-block-diagrams/consumer/ar-and-vr-headset/image-sensors",
+    "band": "DAY",
+    "mode": "model_tokens",
+    "model_regex": "\\b(?:AR|XGS|MT9|ARX)\\d{3,6}[A-Z]*\\b",
+    "min_results": 3
+  },
+  {
+    "id": "swir_vision",
+    "manufacturer": "SWIR Vision Systems (onsemi)",
+    "url": "https://www.swirvisionsystems.com/acuros-swir-camera/",
+    "band": "SWIR",
+    "mode": "model_tokens",
+    "model_regex": "(?i)\\b(?:Acuros|CQD)[- ]?[A-Z0-9]{2,}\\b",
+    "min_results": 1
+  },
+  {
+    "id": "teledyne_e2v",
+    "manufacturer": "Teledyne e2v",
+    "url": "https://www.teledynevisionsolutions.com/categories/image-sensors/",
+    "band": "DAY",
+    "mode": "links",
+    "path_regex": "^/products/[a-z0-9-]+/?$",
+    "min_results": 4
+  }
+]
