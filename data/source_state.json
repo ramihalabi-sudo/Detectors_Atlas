@@ -21,7 +21,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 15,
       "status": "ok"
@@ -36,7 +36,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 5,
       "status": "ok"
@@ -55,7 +55,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 9,
       "status": "ok"
@@ -85,7 +85,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 20,
       "status": "ok"
@@ -103,10 +103,12 @@
         "url:https://www.lynred.com/products/lynred-staring-array-cobra",
         "url:https://www.lynred.com/products/lynred-staring-array-irs",
         "url:https://www.lynred.com/products/lynred-staring-array-ngp-sw",
+        "url:https://www.lynred.com/products/megalink",
         "url:https://www.lynred.com/products/pico1024gen2",
         "url:https://www.lynred.com/products/pico384",
         "url:https://www.lynred.com/products/pico384s",
         "url:https://www.lynred.com/products/pico640-046046",
+        "url:https://www.lynred.com/products/pico640s",
         "url:https://www.lynred.com/products/scorpio-bb-mw",
         "url:https://www.lynred.com/products/scorpio-lw",
         "url:https://www.lynred.com/products/scorpio-mw",
@@ -115,7 +117,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 20,
       "status": "ok"
@@ -130,9 +132,9 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
-      "last_candidate_count": 5,
+      "last_candidate_count": 3,
       "status": "ok"
     },
     "irnova": {
@@ -156,7 +158,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 16,
       "status": "ok"
@@ -178,7 +180,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 12,
       "status": "ok"
@@ -200,7 +202,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 12,
       "status": "ok"
@@ -220,10 +222,10 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T01:00:58Z",
-      "last_error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+      "last_ok": "2026-10-20T12:59:22Z",
+      "last_error": null,
       "last_candidate_count": 10,
-      "status": "error"
+      "status": "ok"
     },
     "nit": {
       "known_keys": [
@@ -238,7 +240,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 8,
       "status": "ok"
@@ -292,7 +294,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 44,
       "status": "ok"
@@ -322,7 +324,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 20,
       "status": "ok"
@@ -336,7 +338,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 4,
       "status": "ok"
@@ -358,7 +360,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:44:32Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_candidate_count": 10
     },
     "flir_lwir": {
@@ -377,7 +379,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 11,
       "status": "ok"
@@ -391,7 +393,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 4,
       "status": "ok"
@@ -412,7 +414,7 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 7,
       "status": "ok"
@@ -439,11 +441,27 @@
       ],
       "initialized": true,
       "baseline_at": "2026-10-10T14:29:33Z",
-      "last_ok": "2026-10-20T06:59:24Z",
+      "last_ok": "2026-10-20T12:59:22Z",
       "last_error": null,
       "last_candidate_count": 17,
       "status": "ok"
     }
   },
-  "events": []
+  "events": [
+    {
+      "id": "evt-90a7e5c5d0e2cf6ad2",
+      "kind": "new_listing",
+      "manufacturer": "LYNRED",
+      "model": "MEGALINK",
+      "detected_at": "2026-10-20T12:59:22Z",
+      "source_id": "lynred_2",
+      "source_url": "https://www.lynred.com/products/megalink",
+      "listing_url": "https://www.lynred.com/products/2",
+      "band": null,
+      "specs": {},
+      "record_id": null,
+      "review": "Auto-extracted. Manufacturer announcement date not confirmed. Verify datasheet.",
+      "status": "Unclassified candidate — review"
+    }
+  ]
 }
