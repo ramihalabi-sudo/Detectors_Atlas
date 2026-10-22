@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_checked": "2026-10-22T13:00:18Z",
+  "last_checked": "2026-10-22T18:56:16Z",
   "catalog": [
     {
       "id": "d140",
@@ -7501,7 +7501,7 @@
       "url": "https://scdusa-ir.com/mwir/",
       "status": "ok",
       "entries": 15,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7510,7 +7510,7 @@
       "url": "https://scdusa-ir.com/lwir/",
       "status": "ok",
       "entries": 5,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7519,7 +7519,7 @@
       "url": "https://scdusa-ir.com/swir/",
       "status": "ok",
       "entries": 9,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7528,7 +7528,7 @@
       "url": "https://www.lynred.com/products/1",
       "status": "ok",
       "entries": 20,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7537,7 +7537,7 @@
       "url": "https://www.lynred.com/products/2",
       "status": "ok",
       "entries": 20,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7546,7 +7546,7 @@
       "url": "https://www.lynred.com/products/3",
       "status": "ok",
       "entries": 3,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7555,7 +7555,7 @@
       "url": "https://www.irnova.se/products",
       "status": "ok",
       "entries": 16,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7564,7 +7564,7 @@
       "url": "https://www.gst-ir.net/products/uncooled-infrared-detectors/",
       "status": "ok",
       "entries": 12,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7573,7 +7573,7 @@
       "url": "https://www.gst-ir.net/products/cooled-infrared-detectors/",
       "status": "ok",
       "entries": 12,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7582,7 +7582,7 @@
       "url": "https://www.aim-ir.com/en/applications-products/security/modules.html",
       "status": "ok",
       "entries": 10,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7591,7 +7591,7 @@
       "url": "https://new-imaging-technologies.com/product-category/swir-cameras/",
       "status": "ok",
       "entries": 8,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7600,7 +7600,7 @@
       "url": "https://gpixel.com/en/product.html",
       "status": "ok",
       "entries": 44,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7609,26 +7609,26 @@
       "url": "https://www.hamamatsu.com/eu/en/product/optical-sensors/image-sensor/ingaas-image-sensor/ingaas-area-image-sensor.html",
       "status": "ok",
       "entries": 20,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
       "id": "sony_swir",
       "manufacturer": "Sony",
       "url": "https://www.sony-semicon.com/en/products/is/industry/swir.html",
-      "status": "error",
-      "error": "HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://www.sony-semicon.com/en/products/is/industry/swir.html",
-      "last_ok": "2026-10-21T13:00:03Z",
-      "entries": 4
+      "status": "ok",
+      "entries": 4,
+      "last_ok": "2026-10-22T18:56:16Z",
+      "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
       "id": "sony_industry",
       "manufacturer": "Sony",
       "url": "https://www.sony-semicon.com/en/products/is/industry/global-shutter.html",
-      "status": "error",
-      "error": "HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://www.sony-semicon.com/en/products/is/industry/global-shutter.html",
-      "last_ok": "2026-10-21T13:00:03Z",
-      "entries": 10
+      "status": "ok",
+      "entries": 10,
+      "last_ok": "2026-10-22T18:56:16Z",
+      "baseline_at": "2026-10-10T14:44:32Z"
     },
     {
       "id": "flir_lwir",
@@ -7636,7 +7636,7 @@
       "url": "https://oem.flir.com/en-150/categories/infrared-camera-cores/long-wave-infrared-lwir-uncooled-camera-modules/",
       "status": "ok",
       "entries": 11,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7645,7 +7645,7 @@
       "url": "https://www.oem.flir.com/en-150/categories/oem-legacy-products/infrared-camera-cores/",
       "status": "ok",
       "entries": 4,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7663,7 +7663,7 @@
       "url": "https://www.swirvisionsystems.com/acuros-swir-camera/",
       "status": "ok",
       "entries": 7,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     },
     {
@@ -7672,7 +7672,7 @@
       "url": "https://www.teledynevisionsolutions.com/categories/image-sensors/",
       "status": "ok",
       "entries": 17,
-      "last_ok": "2026-10-22T13:00:18Z",
+      "last_ok": "2026-10-22T18:56:16Z",
       "baseline_at": "2026-10-10T14:29:33Z"
     }
   ],
